@@ -1,0 +1,21 @@
+ID;Herramienta/Metodologí;Año de Tendenci;Popularidad (%)
+1;Kubernetes;2023;95
+2;Docker;2023;93
+3;Jenkins;2022;89
+4;Ansible;2023;85
+5;Terraform;2023;88
+6;CI/CD;2022;92
+7;GitOps;2023;86
+8;Prometheus;2022;84
+9;Grafana;2023;87
+10;ELK Stack (ElasticSearch, Logstash, Kibana);2022;83
+11;Helm;2023;81
+12;Spinnaker;2023;80
+13;Argo CD;2023;84
+14;CircleCI;2021;79
+15;AWS CodePipeline;2023;88
+16;Azure DevOps;2022;82
+17;Google Cloud Build;2023;90
+18;Bamboo;2021;75
+19;Chef;2021;78
+20;SaltStack;;

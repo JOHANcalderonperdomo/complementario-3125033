@@ -1,0 +1,21 @@
+ID;Metodologí;Año de Tendenci;Popularidad (%)
+1;Agile;2023;95
+2;Scrum;2023;93
+3;Kanban;2022;88
+4;Lean;2021;85
+5;XP (Extreme Programming);2023;80
+6;DevOps;2023;94
+7;Waterfall;2020;68
+8;Modelo V;2021;74
+9;Desarrollo Incremental;2023;82
+10;Desarrollo Basado en Pruebas (TDD);2022;89
+11;Desarrollo Basado en Componentes;2022;84
+12;RAD (Rapid Application Development);2021;76
+13;Crystal;2021;70
+14;DSDM (Dynamic Systems Development Method);2020;73
+15;FDD (Feature Driven Development);2023;80
+16;SAFE (Scaled Agile Framework);2023;90
+17;Desarrollo Ágil Distribuid;2023;87
+18;Continuous Integration (CI);2023;92
+19;Continuous Delivery (CD);2022;90
+20;Modelo Espiral;2021;79

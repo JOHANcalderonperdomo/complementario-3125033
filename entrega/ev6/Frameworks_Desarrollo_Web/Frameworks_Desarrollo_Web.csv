@@ -1,0 +1,21 @@
+ID;Framework;Año de Tendenci;Popularidad (%)
+1;React;2023;95
+2;Angular;2022;85
+3;Vue.js;2023;90
+4;Svelte;2023;82
+5;Next.js;2023;88
+6;Nuxt.js;2022;84
+7;Django;2023;87
+8;Flask;2021;80
+9;Ruby on Rails;2020;75
+10;Laravel;2023;86
+11;Express.js;2022;83
+12;Spring;2022;81
+13;ASP.NET;2021;78
+14;Meteor;2020;74
+15;Backbone.js;2021;70
+16;Ember.js;2020;68
+17;FastAPI;2023;88
+18;Phoenix;2022;80
+19;Strapi;2023;82
+20;Blazor;2022;76

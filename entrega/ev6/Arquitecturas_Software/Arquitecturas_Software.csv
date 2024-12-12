@@ -1,0 +1,21 @@
+ID;Arquitectura;Año de Tendenci;Popularidad (%)
+1;Microservicios;2023;94
+2;Monolític;2020;70
+3;Serverless;2023;88
+4;Arquitectura Orientada a Eventos;2022;85
+5;SOA (Arquitectura Orientada a Servicios);2021;82
+6;CQRS;2023;78
+7;Lambda;2022;83
+8;Arquitectura Hexagonal;2023;86
+9;Event Sourcing;2022;79
+10;Clean Architecture;2023;92
+11;Arquitectura REST;2023;91
+12;Arquitectura de Capas;2021;75
+13;Micro Frontends;2022;80
+14;Event-driven;2023;84
+15;Pipeline Architecture;2021;78
+16;API Gateway;2022;81
+17;Arquitectura sin Servidor;2023;89
+18;Funcional Reactiva;2023;85
+19;Arquitectura híbrid;2021;74
+20;BFF (Backend for Frontend);2022;76

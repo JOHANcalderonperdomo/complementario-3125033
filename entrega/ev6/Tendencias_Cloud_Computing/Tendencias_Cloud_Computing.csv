@@ -1,0 +1,21 @@
+ID;Tecnología o Servicio Clou;Año de Tendenci;Popularidad (%)
+1;Computación en la Nube Públi;2023;90
+2;Computación Híbri;2023;87
+3;Multicloud;2023;89
+4;Contenedores (Docker, Kubernetes);2023;93
+5;Serverless Computing;2023;91
+6;Almacenamiento en la Nube;2023;88
+7;Seguridad en la Nube;2023;85
+8;DevOps en la Nube;2022;82
+9;Migración a la Nub;2021;80
+10;Infraestructura como Códig;2022;84
+11;Servicios PaaS (Platform as a Service);2023;86
+12;Servicios SaaS (Software as a Service);2023;92
+13;Edge Computing;2023;88
+14;Gestión de Recursos Clou;2022;83
+15;Contenedores Desacoplados;2023;85
+16;Cloud-Native Applications;2022;81
+17;Alta Disponibilidad en la Nube;2023;87
+18;Disaster Recovery en la Nube;2022;78
+19;Machine Learning en la Nube;2023;89
+20;Redes Definidas por Software (SDN);2023;80

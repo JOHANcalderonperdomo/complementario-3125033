@@ -1,0 +1,21 @@
+ID;Base de Datos;Año de Tendenci;Popularidad (%)
+1;MySQL;2023;95
+2;PostgreSQL;2023;92
+3;MongoDB;2022;90
+4;SQLite;2023;88
+5;Firebase;2023;85
+6;Cassandra;2022;80
+7;Redis;2023;87
+8;Oracle;2021;79
+9;SQL Server;2022;82
+10;DynamoDB;2023;84
+11;Elasticsearch;2023;86
+12;MariaDB;2021;78
+13;Couchbase;2022;75
+14;Neo4j;2023;83
+15;ArangoDB;2022;77
+16;Apache HBase;2021;71
+17;CockroachDB;2023;79
+18;InfluxDB;2022;74
+19;CouchDB;2020;68
+20;GraphQL;2023;88
